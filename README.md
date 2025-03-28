@@ -72,7 +72,7 @@ endmodule
 
 /* Program to design a half adder and half subtractor circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: MANIKANDAN v RegisterNumber: 212224230151/
+Developed by: MANIKANDAN.V RegisterNumber: 212224230151
 
 *RTL Schematic*
 
